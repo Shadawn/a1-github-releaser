@@ -5,13 +5,25 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "type": "pwa-node",
+      "type": "node",
       "request": "launch",
       "name": "Launch Program",
       "skipFiles": [
         "<node_internals>/**"
       ],
       "program": "${workspaceFolder}\\src\\index.js"
-    }
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Uninstall Service",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}\\service.js",
+      "args": [
+        "uninstall"
+      ]
+    },
   ]
 }
