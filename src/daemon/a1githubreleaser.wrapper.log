@@ -1,0 +1,50 @@
+2021-09-16 10:51:34 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Enigma-Studios\a1-github-releaser\node_modules\node-windows\lib\wrapper.js --file C:\Enigma-Studios\a1-github-releaser\src\index.js --scriptoptions= --log "A1 - Github Releaser wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-16 10:51:34 - Started 14612
+2021-09-16 10:53:53 - Stopping a1githubreleaser.exe
+2021-09-16 10:53:53 - ProcessKill 14612
+2021-09-16 10:53:53 - Found child process: 19420 Name: conhost.exe
+2021-09-16 10:53:53 - Found child process: 9036 Name: node.exe
+2021-09-16 10:53:53 - Stopping process 19420
+2021-09-16 10:53:53 - Send SIGINT 19420
+2021-09-16 10:53:53 - SIGINT to 19420 failed - Killing as fallback
+2021-09-16 10:53:53 - Stopping process 9036
+2021-09-16 10:53:53 - Send SIGINT 9036
+2021-09-16 10:53:53 - SIGINT to 9036 failed - Killing as fallback
+2021-09-16 10:53:53 - Stopping process 14612
+2021-09-16 10:53:53 - Send SIGINT 14612
+2021-09-16 10:53:53 - SIGINT to 14612 failed - Killing as fallback
+2021-09-16 10:53:53 - Finished a1githubreleaser.exe
+2021-09-16 10:54:14 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Enigma-Studios\a1-github-releaser\node_modules\node-windows\lib\wrapper.js --file C:\Enigma-Studios\a1-github-releaser\src\index.js --scriptoptions= --log "A1 - Github Releaser wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-16 10:54:14 - Started 14456
+2021-09-16 10:54:34 - Stopping a1githubreleaser.exe
+2021-09-16 10:54:34 - ProcessKill 14456
+2021-09-16 10:54:35 - Found child process: 5304 Name: conhost.exe
+2021-09-16 10:54:35 - Found child process: 616 Name: node.exe
+2021-09-16 10:54:35 - Stopping process 5304
+2021-09-16 10:54:35 - Send SIGINT 5304
+2021-09-16 10:54:35 - SIGINT to 5304 failed - Killing as fallback
+2021-09-16 10:54:35 - Stopping process 616
+2021-09-16 10:54:35 - Send SIGINT 616
+2021-09-16 10:54:35 - SIGINT to 616 failed - Killing as fallback
+2021-09-16 10:54:35 - Stopping process 14456
+2021-09-16 10:54:35 - Send SIGINT 14456
+2021-09-16 10:54:35 - SIGINT to 14456 failed - Killing as fallback
+2021-09-16 10:54:35 - Finished a1githubreleaser.exe
+2021-09-16 11:38:58 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Enigma-Studios\a1-github-releaser\node_modules\node-windows\lib\wrapper.js --file C:\Enigma-Studios\a1-github-releaser\src\index.js --scriptoptions= --log "A1 - Github Releaser wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-16 11:38:59 - Started 1660
+2021-09-17 00:29:56 - Stopping a1githubreleaser.exe
+2021-09-17 00:29:56 - ProcessKill 1660
+2021-09-17 00:29:56 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-09-17 00:30:37 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Enigma-Studios\a1-github-releaser\node_modules\node-windows\lib\wrapper.js --file C:\Enigma-Studios\a1-github-releaser\src\index.js --scriptoptions= --log "A1 - Github Releaser wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-17 00:30:37 - Started 6288

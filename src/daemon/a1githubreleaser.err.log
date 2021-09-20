@@ -1,0 +1,1694 @@
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /LoadConfigFromFiles "C:\releaser\Shadawn\A1-CRM\Shadawn-A1-CRM-8c9602a58979bc3b68fec2b4379ad038562bc5bc" -Extension А1ЦРМ
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /LoadConfigFromFiles "C:\\releaser\\Shadawn\\A1-CRM\\Shadawn-A1-CRM-8c9602a58979bc3b68fec2b4379ad038562bc5bc" -Extension А1ЦРМ'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /LoadConfigFromFiles "C:\releaser\Shadawn\Test\Shadawn-Test-4b71ee3" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /LoadConfigFromFiles "C:\\releaser\\Shadawn\\Test\\Shadawn-Test-4b71ee3" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
+Error: Command failed: "C:\Program Files\1cv8\8.3.18.1520\bin\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\releaser\Infobase""" /DumpCfg "C:\releaser\Shadawn\Test\extension.cfe" -Extension Тест
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:394:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5) {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Program Files\\1cv8\\8.3.18.1520\\bin\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString "File=""C:\\releaser\\Infobase""" /DumpCfg "C:\\releaser\\Shadawn\\Test\\extension.cfe" -Extension Тест'
+}
