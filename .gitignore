@@ -1,3 +1,5 @@
 node_modules
 conf/env.json
 conf/repositories.json
+src/daemon
+
