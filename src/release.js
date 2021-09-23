@@ -42,12 +42,16 @@ export async function release1CRepository(fullName) {
     const Configuration = xmljs.xml2js(xmlText, { compact: true });
     const ExtensionName = Configuration.MetaDataObject.Configuration.Properties.Name._text;
     const ExtensionVersion = Configuration.MetaDataObject.Configuration.Properties.Version._text;
-    const response = await requestGithub('GET /repos/{owner}/{repo}/releases/tags/{tag}', fullName, {
-      tag: ExtensionVersion,
-    });
-    if (response.status === 200) {
-      console.log('Release already exists!');
-      return false;
+    try {
+      const response = await requestGithub('GET /repos/{owner}/{repo}/releases/tags/{tag}', fullName, {
+        tag: ExtensionVersion,
+      });
+      if (response.status === 200) {
+        console.log('Release already exists!');
+        return false;
+      }
+    } catch (err) {
+      // nothing because this SHOULD fail (we only make release if there isn't one)
     }
     await uploadExtensionFromFiles(sourcePath, ExtensionName);
     const pathToCFE = fullPath + '\\extension.cfe';
