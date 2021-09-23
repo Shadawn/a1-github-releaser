@@ -7,7 +7,8 @@
     "start": "node src\\index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "service-install": "node service.js",
-    "service-uninstall": "node service.js uninstall"
+    "service-uninstall": "node service.js uninstall",
+    "test-local": "node src\\test-local.js"
   },
   "author": "",
   "type": "module",
@@ -22,6 +23,7 @@
     "node-windows": "^1.0.0-beta.5",
     "octokit": "^1.5.0",
     "persistent-object": "dlenroc/node-persistent-object",
+    "simple-node-logger": "^21.8.12",
     "xml-js": "^1.6.11"
   },
   "devDependencies": {

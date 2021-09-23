@@ -47,7 +47,7 @@ export async function release1CRepository(fullName) {
     await saveExtensionToFile(pathToCFE, ExtensionName);
     await createRelease(fullName, pathToCFE, ExtensionVersion);
   } catch (err) {
-    console.log(err);
+    throw err;
   }
 }
 

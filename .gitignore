@@ -4,3 +4,4 @@ conf/repositories.json
 daemon
 src/test-local.js
 repositories.json
+data/*
