@@ -3,4 +3,4 @@ conf/env.json
 conf/repositories.json
 daemon
 src/test-local.js
-
+repositories.json
