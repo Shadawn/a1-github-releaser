@@ -53,9 +53,12 @@ export async function release1CRepository(fullName) {
     } catch (err) {
       // nothing because this SHOULD fail (we only make release if there isn't one)
     }
-    await uploadExtensionFromFiles(sourcePath, ExtensionName);
+    const emptyBasePath = fullPath + '\\Emptybase';
+    await fs.emptyDir(emptyBasePath);
+    await fs.copyFile(env.InfoBasePath1C + '\\1Cv8.1CD', emptyBasePath + '\\1Cv8.1CD');
+    await uploadExtensionFromFiles(emptyBasePath, sourcePath, ExtensionName);
     const pathToCFE = fullPath + '\\extension.cfe';
-    await saveExtensionToFile(pathToCFE, ExtensionName);
+    await saveExtensionToFile(emptyBasePath, pathToCFE, ExtensionName);
     await createRelease(fullName, pathToCFE, ExtensionVersion);
     return true;
   } catch (err) {
@@ -63,21 +66,21 @@ export async function release1CRepository(fullName) {
   }
 }
 
-async function saveExtensionToFile(path, extensionName) {
-  await exec1CDesigner('DumpCfg', [
+async function saveExtensionToFile(pathToInfobase, path, extensionName) {
+  await exec1CDesigner(pathToInfobase, 'DumpCfg', [
     '"' + path + '"',
     '-Extension ' + extensionName,
   ]);
 }
-async function uploadExtensionFromFiles(path, extensionName) {
-  await exec1CDesigner('LoadConfigFromFiles', [
+async function uploadExtensionFromFiles(pathToInfobase, path, extensionName) {
+  await exec1CDesigner(pathToInfobase, 'LoadConfigFromFiles', [
     '"' + path + '"',
     '-Extension ' + extensionName,
   ]);
 }
-async function exec1CDesigner(commandName, commandParams) {
+async function exec1CDesigner(pathToInfobase, commandName, commandParams) {
   await execShellCommand('"' + env.ApplicationPath1C + '\\1cv8.exe" DESIGNER /DisableStartupMessages /DisableStartupDialogs /IBConnectionString ' +
-    '"File=""' + env.InfoBasePath1C + '""" /' + commandName + ' ' + commandParams.join(' '));
+    '"File=""' + pathToInfobase + '""" /' + commandName + ' ' + commandParams.join(' '));
 }
 
 async function execShellCommand(cmd) {
