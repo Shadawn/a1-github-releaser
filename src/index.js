@@ -49,7 +49,7 @@ app.post('/githubwebhook', (req, res) => {
     res.status(200).send('Repository ' + fullName + ' scheduled for release!');
     log.info('Accepted release request from repository ', fullName);
   } catch (err) {
-    log.error('Error with github hook', err);
+    log.error('Error with github hook ', err);
   }
 });
 
@@ -72,13 +72,18 @@ setInterval(() => {
 async function release1CRepositoryIfRequired(fullName) {
   const repository = repositories[fullName];
   if (!repository.needUpdate) return;
+  let result;
   try {
-    await release1CRepository(fullName);
+    result = await release1CRepository(fullName);
   } catch (err) {
     log.error('Error while releasing repository ', fullName, ': ', err);
     return;
   };
   repository.needUpdate = false;
-  log.info('Released repository ', fullName);
+  if (result === true) {
+    log.info('Released repository ', fullName);
+  } else {
+    log.info('Current version already released for repository ', fullName);
+  };
 }
 

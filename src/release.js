@@ -42,10 +42,18 @@ export async function release1CRepository(fullName) {
     const Configuration = xmljs.xml2js(xmlText, { compact: true });
     const ExtensionName = Configuration.MetaDataObject.Configuration.Properties.Name._text;
     const ExtensionVersion = Configuration.MetaDataObject.Configuration.Properties.Version._text;
+    const response = await requestGithub('GET /repos/{owner}/{repo}/releases/tags/{tag}', fullName, {
+      tag: ExtensionVersion,
+    });
+    if (response.status === 200) {
+      console.log('Release already exists!');
+      return false;
+    }
     await uploadExtensionFromFiles(sourcePath, ExtensionName);
     const pathToCFE = fullPath + '\\extension.cfe';
     await saveExtensionToFile(pathToCFE, ExtensionName);
     await createRelease(fullName, pathToCFE, ExtensionVersion);
+    return true;
   } catch (err) {
     throw err;
   }
