@@ -1,6 +1,6 @@
 {
   "name": "a1-github-releaser",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Utility to build and release 1C Projects on Github",
   "main": "src\\index.js",
   "scripts": {
