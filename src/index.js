@@ -13,7 +13,6 @@ const persist = require('persistent-object');
 const repositories = persist('repositories.json');
 
 const requiredRepositories = requiredSettings('conf/repositories.json');
-console.log(requiredRepositories);
 
 for (const key of Object.keys(requiredRepositories)) {
   if (repositories[key] === undefined) {

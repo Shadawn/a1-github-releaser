@@ -4,6 +4,7 @@
   "description": "Utility to build and release 1C Projects on Github",
   "main": "src\\index.js",
   "scripts": {
+    "start": "node src\\index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "service-install": "node service.js",
     "service-uninstall": "node service.js uninstall"

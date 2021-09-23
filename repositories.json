@@ -1,8 +1,11 @@
 {
-  "Shadawn/Test": {
-    "needUpdate": true
+  "Shadawn/A1-Export": {
+    "needUpdate": false
   },
-  "Shadawn/A1-CRM": {
-    "needUpdate": true
+  "Shadawn/A1-Component-Library": {
+    "needUpdate": false
+  },
+  "Shadawn/A1-Instruments": {
+    "needUpdate": false
   }
 }
