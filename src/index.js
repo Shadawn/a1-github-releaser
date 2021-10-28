@@ -67,7 +67,7 @@ app.listen(port, () => {
 setInterval(() => {
   log.info('Releasing repositories');
   Object.keys(repositories).forEach(release1CRepositoryIfRequired);
-}, 300000);
+}, 60000);
 
 async function release1CRepositoryIfRequired(fullName) {
   const repository = repositories[fullName];
